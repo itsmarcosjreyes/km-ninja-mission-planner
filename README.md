@@ -1,4 +1,7 @@
 # 🥷 Ninja Mission Planner
+<p align="center">
+  made with love at dojo.KineticMatrix.io<br/>🥷🧡⛩️
+</p>
 
 Welcome to the **Ninja Mission Planner**, a Swift+SwiftUI-powered app that lets you organize your life like a shadowy master of productivity. This is the official sample app for my course _**App Building with Swift: Your Beginner’s Guide**_, and it’s designed to teach you how to build real apps for real people — even if your only previous programming experience was summoning Pikachu in Super Smash Bros.
 
